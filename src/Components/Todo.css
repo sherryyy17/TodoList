@@ -2,7 +2,7 @@
     width: 70%;
     padding:8px;
     border:1px solid black;
-    font-size:20px;
+    font-size:22px;
     margin-top:2px;
     margin-right: 5px;
 }
@@ -12,9 +12,9 @@
     background: #555;
     cursor: pointer;
     color:#fff;
-    padding: 11px 20px;
+    padding: 12px 20px;
     float: right;
-
+    transform: scale(1.1);
 }
 .datee{
     width: 10%;
